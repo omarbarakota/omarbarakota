@@ -16,7 +16,7 @@
   
 - 🤖 I've Supervised on `30+ Mini Projects` and `2 real projects`
   
-- 👨‍🏫 I’ve tought more than **100+** University Student and **100+** School Student
+- 👨‍🏫 I’ve tought more than **`100+`** University Student and **`100+`** School Student
   
 - 🌱 I’m currently learning DevOps Tools, while doing and supervising embedded systems projects
   
