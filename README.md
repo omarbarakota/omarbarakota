@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=104de6&size=35&center=true&vCenter=true&width=700&height=100&lines=Omar+Barakat;">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=104de6&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Embedded+Systems+Developer,;Embedded+Systems+Instructor,;Tech+Enthusiast,;Mechatronics+Undergraduate,;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=104de6&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Embedded+Systems+&+IoT+Developer,;Embedded+Systems+&+IoT+Instructor,;Tech+Enthusiast,;">
 </p>
 
 <img src=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif><br><br>
